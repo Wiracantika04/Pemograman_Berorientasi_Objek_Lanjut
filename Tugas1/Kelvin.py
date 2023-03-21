@@ -1,0 +1,11 @@
+print("Nama = Wira Cantika")
+print("NIM = 210511171")
+print("Kelas = K1 Teknik Informatika")
+print("------------------------------")
+
+#Konversi Suhu
+    
+Celcius=float(input("Masukan Suhu = "))
+C=90
+K= C + 273
+print("Konvesi =",C,"dearajat Celcius adalah",K,"derajat Kelvin")
